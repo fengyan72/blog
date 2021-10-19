@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="fengyan72.github.io/blog/"/>
-  <updated>2020-01-05T09:27:28.000Z</updated>
+  <updated>2021-10-19T18:37:13.189Z</updated>
   <id>fengyan72.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Projects Summary</title>
+    <link href="fengyan72.github.io/blog/2021/10/18/projects/"/>
+    <id>fengyan72.github.io/blog/2021/10/18/projects/</id>
+    <published>2021-10-19T02:58:06.000Z</published>
+    <updated>2021-10-19T18:37:13.189Z</updated>
+    
+    <content type="html"><![CDATA[<p>Here we summarize the <strong>research projects we have</strong></p><a id="more"></a><p>For detailed project introduction, see:</p><ul><li><a href="https://somelink..." target="_blank" rel="noopener">project1</a></li><li><a href="https://somelink..." target="_blank" rel="noopener">project2</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Here we summarize the &lt;strong&gt;research projects we have&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="projects" scheme="fengyan72.github.io/blog/categories/projects/"/>
+    
+    
+      <category term="projects" scheme="fengyan72.github.io/blog/tags/projects/"/>
+    
+      <category term="education" scheme="fengyan72.github.io/blog/tags/education/"/>
+    
+      <category term="research" scheme="fengyan72.github.io/blog/tags/research/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
