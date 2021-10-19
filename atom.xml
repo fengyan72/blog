@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Shuchen Meng&#39;s Blog</title>
+  <title>Yan Feng&#39;s Blog</title>
   
-  <subtitle>Economics &amp; Economist</subtitle>
+  <subtitle>God feeds every bird, but doesn&#39;t put it right in its nest.</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="mengmeng12.github.io/blog/"/>
+  <link href="fengyan72.github.io/blog/"/>
   <updated>2020-01-05T09:27:28.000Z</updated>
-  <id>mengmeng12.github.io/blog/</id>
+  <id>fengyan72.github.io/blog/</id>
   
   <author>
-    <name>Shuchen Meng</name>
+    <name>Yan Feng</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="mengmeng12.github.io/blog/2020/01/05/hello_world/"/>
-    <id>mengmeng12.github.io/blog/2020/01/05/hello_world/</id>
+    <link href="fengyan72.github.io/blog/2020/01/05/hello_world/"/>
+    <id>fengyan72.github.io/blog/2020/01/05/hello_world/</id>
     <published>2020-01-05T22:58:06.000Z</published>
     <updated>2020-01-05T09:27:28.000Z</updated>
     
@@ -31,10 +31,10 @@
     
     </summary>
     
-      <category term="life" scheme="mengmeng12.github.io/blog/categories/life/"/>
+      <category term="life" scheme="fengyan72.github.io/blog/categories/life/"/>
     
     
-      <category term="Life" scheme="mengmeng12.github.io/blog/tags/Life/"/>
+      <category term="Life" scheme="fengyan72.github.io/blog/tags/Life/"/>
     
   </entry>
   
